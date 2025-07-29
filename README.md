@@ -23,7 +23,7 @@ This is a fictional HR employee management web application built using [LitEleme
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/smlozbey/employee-management-lit.git
+git clone https://github.com/smlozbey/lit-element-starter-js-main.git
 cd employee-management-lit
 npm install
 npm run start
