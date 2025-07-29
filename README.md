@@ -26,12 +26,13 @@ This is a fictional HR employee management web application built using [LitEleme
 git clone https://github.com/smlozbey/lit-element-starter-js-main.git
 cd employee-management-lit
 npm install
-npm run start
+npm run serve
 ```
 
 ## 🧪 Running Tests
 
 ```bash
+npx playwright install
 npm run test
 ```
 OR
